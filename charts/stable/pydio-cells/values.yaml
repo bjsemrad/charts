@@ -1,7 +1,7 @@
 image:
   repository: tccr.io/truecharts/pydio-cells
   pullPolicy: IfNotPresent
-  tag: v3.0.9@sha256:8eb6e4fa8a6ad27056683a97c8c4e2a61f1a6324e9272ac0fb0018097abd1d7e
+  tag: 4.0.4@sha256:4a29f0dee484791ebce58f15e6532f521eff87db6eb4b95344d7e99b5fd3555e
 
 securityContext:
   readOnlyRootFilesystem: false
