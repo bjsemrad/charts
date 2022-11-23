@@ -1,8 +1,8 @@
 apiVersion: v2
 kubeVersion: ">=1.16.0-0"
 name: pydio-cells
-version: 7.0.4
-appVersion: "3.0.9"
+version: 7.0.5
+appVersion: "4.0.4"
 description: Pydio-cells is the nextgen file sharing platform for organizations.
 type: application
 deprecated: false
